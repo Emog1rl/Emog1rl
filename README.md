@@ -1,6 +1,6 @@
-@Ash-Flesh automaton
-Learning Python and C
-uh...
+-@Ash-Flesh automaton
+-Learning Python and C
+-uh...
 
 
 
